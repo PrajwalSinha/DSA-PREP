@@ -1,0 +1,2 @@
+Through p1.cpp we got to know how to extract numbers from a digit.
+
